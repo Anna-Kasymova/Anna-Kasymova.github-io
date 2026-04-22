@@ -1,0 +1,35 @@
+h1 {
+	color: #C71585;
+	margin-left:800px ;
+	font-family: sans-serif;
+	font-size: 35px;
+}
+h2{
+	color: #4B0082;
+	margin-left: 870px ;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+img {
+	margin-left:720px
+}
+.ci {
+	color: black;
+	margin-left:850px ;
+	font-family: sans-serif;
+	font-size: 35 px;
+	font-style: italic;
+	border: 1px dashed #000; 
+    display: inline-block;
+}
+p{
+	color: black;
+	margin-left:840px ;
+	font-family: sans-serif;
+	font-size: 35 px;
+
+}
+
+body {
+  background: linear-gradient(to right,#D8BFD8, #87CEEB);
+}
